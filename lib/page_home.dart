@@ -14,7 +14,7 @@ class _PageHomeState extends State<PageHome> {
       backgroundColor: Color.fromARGB(255, 236, 236, 236),
       appBar: AppBar(
         backgroundColor: const Color.fromARGB(255, 203, 243, 230),
-        title: const Text("Homepage"),
+        title: const Text("Home Page Splashscreen"),
       ),
     );
   }
